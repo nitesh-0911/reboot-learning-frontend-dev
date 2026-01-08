@@ -1,0 +1,8 @@
+url- uniform resource locator
+
+http://localhost:5500/index.html
+
+http = its a protocol
+://  = seperator
+localhost = hostname(server name)
+/index.html = path of requested file

@@ -1,0 +1,15 @@
+Tim Berners Lee : developed HTML in 1991 and He was also developed WWW (World Wide Web)
+
+He was british computer scientist.
+
+
+HTML stands for : HyperText MarkUp Language
+
+HyperText = Text with links(hyper-links)
+MarkUp = represents tags like- p, a, h1, ...h6 etc.
+Language = rules of writing web pages
+
+
+Who maintains HTML now ?
+Today, HTMl is maintained by WHATWG and W3C
+Modern version is: html5
