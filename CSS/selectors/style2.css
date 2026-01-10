@@ -1,0 +1,24 @@
+body {
+    background-color: #212121;
+}
+
+h3 {
+    color: green;
+}
+
+ul {
+    color: hotpink;
+}
+
+h2 {
+    color: teal;
+}
+
+img {
+    max-width: 200px;
+    width: 100%;
+}
+
+h4 {
+    color: orange;
+}

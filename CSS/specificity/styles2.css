@@ -1,0 +1,11 @@
+#title {
+    color: green;
+}
+
+.page-title#title#title {
+    color: blue;
+}
+
+#title#title#title {
+    color: teal
+}

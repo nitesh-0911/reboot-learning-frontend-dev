@@ -1,0 +1,17 @@
+body {
+    background-color: #212121;
+    color: white;
+}
+
+h1 {
+    color: gold;
+}
+
+p {
+    font-weight: 200;
+    color: #ccc;
+}
+
+mark {
+    text-decoration: underline;
+}

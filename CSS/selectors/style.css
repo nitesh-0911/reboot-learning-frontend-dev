@@ -1,0 +1,18 @@
+@import "./style2.css";
+
+/*We have use this syntax only in the top of the css file*/
+h1 {
+    color: gold;
+}
+
+#title {
+    color: #ff33ff;
+}
+
+.lists {
+    background-color: #ccc;
+}
+
+.greet:hover {
+    color: #9f9f9f;
+}

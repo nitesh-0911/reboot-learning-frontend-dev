@@ -1,0 +1,22 @@
+body {
+    background-color: #212121;
+    color: #fff;
+}
+
+li {
+    list-style-type: decimal;
+}
+
+li::marker {
+    color: #ccc;
+}
+
+#cascade-docs {
+    width: 100%;
+    max-width: 400px;
+}
+
+.doc-container {
+    background-color: #00fbff;
+    padding: 20px;
+}
