@@ -1,0 +1,97 @@
+body {
+    background-color: #212121;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    color: orange;
+    font-size: 22px;
+}
+
+.practice-quote {
+    background-color: yellow;
+    color: #000;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 8px;
+    width: max-content;
+}
+
+#page-title {
+    color: crimson;
+    background-color: #ccc;
+    padding: 20px;
+    width: max-content;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+[href="https://google.com/"] {
+    color: green;
+    font-weight: 600;
+}
+
+p a {
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: brown !important;
+}
+
+.pr1,
+.pr2,
+.pr3,
+.pr4,
+.pr5,
+.pr6,
+.pr7 {
+    color: green;
+}
+
+.parent {
+    background-color: grey;
+    width: 300px;
+    height: 80px;
+    overflow: hidden;
+}
+
+.child {
+    height: 50%;
+    width: 50%;
+    background-color: hotpink;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 8px;
+    border: 2px solid black;
+    outline: 3px solid slateblue;
+}
+
+.circle {
+    width: 40px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+.in-ele {
+    background-color: teal;
+    margin: 6px;
+    padding: 4px 18px;
+    border-radius: 8px;
+    color: beige;
+    font-weight: 800;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.pr9-parent {
+    background-color: azure;
+    color: blueviolet;
+}
