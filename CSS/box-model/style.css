@@ -1,0 +1,40 @@
+body {
+    background-color: #212121 !important;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.box-one {
+    background-color: green;
+    width: 10%;
+    height: 10%;
+}
+
+.box-two {
+    background-color: red;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 500px;
+    padding: 30px;
+}
+
+.child {
+    background-color: orange;
+}
+
+.greet {
+    background-color: teal;
+    margin-top: 10px;
+    width: 100px;
+    height: 20px;
+    margin: 100px;
+    /* padding: 30px; */
+}
+
+.hey {
+    display: inline-block;
+    width: 100px;
+    margin: 20px;
+    background-color: goldenrod;
+    padding: 20px;
+}
