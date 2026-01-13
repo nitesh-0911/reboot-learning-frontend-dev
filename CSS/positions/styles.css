@@ -1,0 +1,44 @@
+body {
+    background-color: #5d5c5c;
+    padding: 0;
+    background-color: #212121;
+    color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
+p {
+    text-align: justify;
+    color: beige;
+}
+
+h1 {
+    color: crimson;
+    position: sticky;
+    top: 2px;
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 1000px;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    /* position: relative; */
+    /* top: 1000px; */
+    /* inset: 200px; */
+    /* position: absolute; */
+    /* inset: 200px; */
+    /* position: fixed; */
+}
+
+h3 {
+    color: gold;
+}
+
+main {
+    max-width: 1000px;
+    margin-top: 0;
+    margin-inline: auto;
+    padding: 20px;
+}
